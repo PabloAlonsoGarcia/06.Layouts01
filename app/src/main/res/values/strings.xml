@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Saludo</string>
-    <string name="introduce_nombre">Escribe tu nombre</string>
-    <string name="aceptar">Aceptar</string>
-    <string name="volver">Volver</string>
-    <string name="nombre">Nombre</string>
-    <string name="errorNombre">No has introducido un nombre</string>
-</resources>
